@@ -11,4 +11,5 @@ package test;
 public class Test {
 
    private String nome;
+   private int idade;
 }
